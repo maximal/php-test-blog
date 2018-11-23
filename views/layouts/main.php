@@ -22,15 +22,15 @@ use app\system\helpers\Html;
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<link rel="icon" href="http://getbootstrap.com/favicon.ico">
+	<link rel="icon" href="//getbootstrap.com/favicon.ico">
 
 	<title>Тестовый блог на чистом PHP</title>
 
 	<!-- Bootstrap core CSS -->
-	<link href="https://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
 
 	<!-- Custom styles for this template -->
-	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
 	<link href="/css/app.css" rel="stylesheet">
 </head>
 
@@ -138,7 +138,7 @@ use app\system\helpers\Html;
         crossorigin="anonymous"></script>
 <script>window.jQuery || document.write('<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"><\/script>')</script>
 <script src="https://getbootstrap.com/assets/js/vendor/popper.min.js"></script>
-<script src="https://getbootstrap.com/dist/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js"></script>
 -->
 <script src="/js/app.js"></script>
 </body>
